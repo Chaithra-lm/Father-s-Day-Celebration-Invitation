@@ -1,0 +1,66 @@
+/*
+ *Container Styles
+*/
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ *Santa Styles
+*/
+
+.santa {
+    border-radius: 0;
+}
+
+/*
+ *Aside Styles
+*/
+
+aside.curve {
+    line-height: 0;
+}
+
+aside.Father {
+    padding-left: 10px;
+}
+
+aside.Daughter img {
+    padding: 0;
+}
+
+aside.Father img{
+    width: 150px;
+}
+
+aside.Daughter img{
+    width:  150px;
+}
+
+
+/*
+ *Section Styles
+*/
+section.intro p{
+    padding-top: 1rem;
+}
+
+section.contact p.top {
+    padding-top: 1rem;
+    padding-left: rem;
+    position: absolute;
+    left: 9rem;
+}
+
+section.contact p.bottom {
+    position: absolute;
+    left: 10rem;
+    padding-top: 4rem;
+    padding-left: 2rem;
+}
+
+section.form p{
+    padding-top: 1rem;
+}
